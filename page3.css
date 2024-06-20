@@ -1,0 +1,239 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(255,255,255,0.25), rgba(255,255,255,0.25)), url('images/tv_show-game_of_thrones-611937.jpeg');
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 997px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 570px;
+  --radius: 10px;
+  height: auto;
+  background-image: none;
+  min-height: 965px;
+  margin: 50px auto -18px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 15px 0 20px;
+}
+
+.u-section-1 .u-group-2 {
+  width: 520px;
+  min-height: 97px;
+  height: auto;
+  margin: 20px 25px 0;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 400;
+  margin: 17px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 8px 30px 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 510px;
+  height: 286px;
+  --radius: 10px;
+  margin: 10px auto 0;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 20px 30px 0;
+}
+
+.u-section-1 .u-group-3 {
+  min-height: 366px;
+  width: 520px;
+  height: auto;
+  margin: 30px 25px 0;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+.u-section-1 .u-text-4 {
+  margin: 26px 0 0;
+}
+
+.u-section-1 .u-text-5 {
+  margin: 20px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 996px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 953px;
+    margin-bottom: -7px;
+    height: auto;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-bottom: 9px;
+  }
+
+  .u-section-1 .u-group-2 {
+    height: auto;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: auto;
+  }
+
+  .u-section-1 .u-group-3 {
+    height: auto;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1013px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 974px;
+    margin-bottom: -11px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 896px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 853px;
+    margin-bottom: -7px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-top: 0;
+    padding-bottom: 30px;
+  }
+
+  .u-section-1 .u-group-2 {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 504px;
+    margin-left: 18px;
+    margin-right: 18px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 28px;
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+
+  .u-section-1 .u-group-3 {
+    min-height: 179px;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: 25px;
+  }
+
+  .u-section-1 .u-text-5 {
+    width: auto;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 919px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 880px;
+    margin-bottom: -11px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-bottom: 10px;
+  }
+
+  .u-section-1 .u-group-2 {
+    min-height: 109px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 13px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 184px;
+    width: 320px;
+    margin-top: 23px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 20px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-group-3 {
+    width: 315px;
+    min-height: 409px;
+    margin-top: 23px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}

@@ -1,0 +1,225 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(255,255,255,0.25), rgba(255,255,255,0.25)), url('images/tv_show-game_of_thrones-611937.jpeg');
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1162px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 570px;
+  --radius: 10px;
+  height: auto;
+  background-image: none;
+  min-height: 1131px;
+  margin: 51px auto -20px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 15px 0 13px;
+}
+
+.u-section-1 .u-group-2 {
+  width: 520px;
+  min-height: 70px;
+  height: auto;
+  margin: 20px 25px 0;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 400;
+  margin: 0 auto 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 8px 30px 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 510px;
+  height: 286px;
+  --radius: 10px;
+  margin: 16px auto 0;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 14px 30px 0;
+}
+
+.u-section-1 .u-group-3 {
+  min-height: 306px;
+  width: 520px;
+  height: auto;
+  margin: 30px auto 0;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+.u-section-1 .u-text-4 {
+  margin: 26px 0 0;
+}
+
+.u-section-1 .u-text-5 {
+  margin: 20px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1138px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 1106px;
+    margin-bottom: -19px;
+    height: auto;
+  }
+
+  .u-section-1 .u-group-2 {
+    height: auto;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: auto;
+  }
+
+  .u-section-1 .u-group-3 {
+    min-height: 274px;
+    height: auto;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: 21px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1142px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 1112px;
+    margin-bottom: -21px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 976px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 937px;
+    margin-bottom: -12px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  .u-section-1 .u-group-2 {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 28px;
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+
+  .u-section-1 .u-group-3 {
+    min-height: 218px;
+    margin-top: 20px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: 19px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1118px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 1075px;
+    margin-bottom: -8px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-bottom: 18px;
+  }
+
+  .u-section-1 .u-group-2 {
+    width: 340px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 184px;
+    width: 320px;
+    margin-top: 23px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 20px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-group-3 {
+    width: 315px;
+    min-height: 284px;
+    margin-top: 28px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: 14px;
+  }
+}
